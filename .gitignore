@@ -1,0 +1,281 @@
+# =========================
+
+# OS GENERATED FILES
+
+# =========================
+
+.DS_Store
+.AppleDouble
+.LSOverride
+Thumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+.Spotlight-V100/
+.Trashes/
+._*
+
+# =========================
+
+# EDITORS & IDEs
+
+# =========================
+
+.vscode/
+.idea/
+*.iml
+*.ipr
+*.iws
+*.swp
+*.swo
+*~
+.project
+.classpath
+.settings/
+
+# =========================
+
+# LOGS
+
+# =========================
+
+*.log
+logs/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# =========================
+
+# ENVIRONMENT & SECRETS
+
+# =========================
+
+.env
+.env.*
+*.env
+*.key
+*.pem
+*.crt
+*.p12
+*.pfx
+*.csr
+*.jks
+secrets/
+credentials/
+*.secret
+
+# =========================
+
+# PYTHON
+
+# =========================
+
+**pycache**/
+*.py[cod]
+*.pyo
+*.pyd
+*.egg
+*.egg-info/
+.eggs/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+htmlcov/
+.tox/
+.nox/
+.venv/
+venv/
+env/
+ENV/
+pip-wheel-metadata/
+
+# =========================
+
+# JUPYTER
+
+# =========================
+
+.ipynb_checkpoints/
+
+# =========================
+
+# NODE.JS / JAVASCRIPT
+
+# =========================
+
+node_modules/
+.npm/
+.pnpm-store/
+.yarn/
+.next/
+.nuxt/
+.svelte-kit/
+dist/
+coverage/
+*.tsbuildinfo
+
+# =========================
+
+# JAVA
+
+# =========================
+
+target/
+*.class
+*.jar
+*.war
+*.ear
+.mvn/
+
+# =========================
+
+# GRADLE
+
+# =========================
+
+.gradle/
+build/
+out/
+
+# =========================
+
+# GO
+
+# =========================
+
+bin/
+pkg/
+
+# =========================
+
+# RUST
+
+# =========================
+
+target/
+Cargo.lock
+
+# =========================
+
+# .NET
+
+# =========================
+
+bin/
+obj/
+*.user
+*.suo
+
+# =========================
+
+# C / C++ / CMAKE
+
+# =========================
+
+cmake-build-*/
+CMakeFiles/
+CMakeCache.txt
+Makefile
+compile_commands.json
+
+# =========================
+
+# TERRAFORM
+
+# =========================
+
+.terraform/
+.terraform.lock.hcl
+*.tfstate
+*.tfstate.*
+
+# =========================
+
+# ANSIBLE
+
+# =========================
+
+*.retry
+
+# =========================
+
+# DOCKER
+
+# =========================
+
+docker-compose.override.yml
+
+# =========================
+
+# KUBERNETES
+
+# =========================
+
+*.kubeconfig
+kubeconfig
+
+# =========================
+
+# ARCHIVES
+
+# =========================
+
+*.zip
+*.tar
+*.tar.gz
+*.tgz
+*.rar
+*.7z
+
+# =========================
+
+# TEMPORARY FILES
+
+# =========================
+
+tmp/
+temp/
+.cache/
+.tmp/
+*.tmp
+
+# =========================
+
+# TEST OUTPUT
+
+# =========================
+
+coverage/
+reports/
+test-results/
+
+# =========================
+
+# LOCAL CONFIGS
+
+# =========================
+
+.local/
+.localrc
+*.local
+
+# =========================
+
+# BACKUPS
+
+# =========================
+
+*.bak
+*.backup
+*.old
+
+# =========================
+
+# GENERATED FILES
+
+# =========================
+
+*.generated.*
+generated/
